@@ -1,1 +1,3 @@
-color blue
+<<<<<<< HEAD
+color red
+>>>>>>> 53b0a2b9815478e203dedde31a7d43920b1fb4ad
